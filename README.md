@@ -1,3 +1,3 @@
 # pandas-challenge
 
-in this challege I searched, collected, organized, represented, and deciphered data from two csvfiles
+This challenge included searching, collecting, organizing and representing data from two csv files.
